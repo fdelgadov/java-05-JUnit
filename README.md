@@ -1,10 +1,10 @@
 # java-05-JUnit
 _Useful techniques in software development._
 
-##Topic
+## Topic
 _JUnit_
 
-###Latex template
+### Latex template
 [java-05-JUnit.tex](https://github.com/fdelgadov/java-05-JUnit/blob/master/latex/java-05-JUnit.tex)
 ```
 java-05-JUnit.tex
@@ -59,9 +59,9 @@ TablasDeVerdadTest.java
 ```
 
 ### Videos
-[fdelgadov's examples](https://youtu.be/suZpz3HKiQ0 "fdelgadov's examples")
+[![fdelgadov's examples](https://github.com/fdelgadov/java-05-JUnit/blob/master/fdelgadov.png)](https://youtu.be/suZpz3HKiQ0 "fdelgadov's examples")
 
-[agallegosco's examples](https://youtu.be/i35QU7F1ZqQ "agallegosco's examples")
+[![agallegosco's examples](https://github.com/fdelgadov/java-05-JUnit/blob/master/agallegosco.png)](https://youtu.be/i35QU7F1ZqQ "agallegosco's examples")
 
 ## Authors
 * **Franco Andre Delgado Valencia** - *50%* - [fdelgadov](https://github.com/fdelgadov)
