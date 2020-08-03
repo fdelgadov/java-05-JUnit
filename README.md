@@ -58,7 +58,11 @@ TablasDeVerdad.java
 TablasDeVerdadTest.java
 ```
 
-### videos
+### Videos
 [fdelgadov's examples](https://youtu.be/suZpz3HKiQ0 "fdelgadov's examples")
 
 [agallegosco's examples](https://youtu.be/i35QU7F1ZqQ "agallegosco's examples")
+
+## Authors
+* **Franco Andre Delgado Valencia** - *50%* - [fdelgadov](https://github.com/fdelgadov)
+* **Anette Isabel Gallegos Condori** - *50%* - [agallegosco](https://github.com/Anette-Gallegos)
