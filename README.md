@@ -60,3 +60,5 @@ TablasDeVerdadTest.java
 
 ### videos
 [fdelgadov's examples](https://youtu.be/suZpz3HKiQ0 "fdelgadov's examples")
+
+[agallegosco's examples](https://youtu.be/i35QU7F1ZqQ "agallegosco's examples")
