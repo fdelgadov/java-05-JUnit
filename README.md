@@ -1,8 +1,10 @@
 # java-05-JUnit
-JUnit
+_Useful techniques in software development._
+
+##Topic
+_JUnit_
 
 ###Latex template
-
 [java-05-JUnit.tex](https://github.com/fdelgadov/java-05-JUnit/blob/master/latex/java-05-JUnit.tex)
 ```
 java-05-JUnit.tex
@@ -34,3 +36,27 @@ MissingChar.java
 ```
 MissingCharTest.java
 ```
+
+### Advancedexamples
+[ADN.java](https://github.com/fdelgadov/java-05-JUnit/blob/master/advanced-examples/ADN.java)
+```
+ADN.java
+```
+
+[ADNTest.java](https://github.com/fdelgadov/java-05-JUnit/blob/master/advanced-examples/ADNTest.java)
+```
+ADNTest.java
+```
+
+[TablasDeVerdad.java](https://github.com/fdelgadov/java-05-JUnit/blob/master/advanced-examples/TablasDeVerdad.java)
+```
+TablasDeVerdad.java
+```
+
+[TablasDeVerdadTest.java](https://github.com/fdelgadov/java-05-JUnit/blob/master/advanced-examples/TablasDeVerdadTest.java)
+```
+TablasDeVerdadTest.java
+```
+
+### videos
+[fdelgadov's examples](https://youtu.be/suZpz3HKiQ0 "fdelgadov's examples")
